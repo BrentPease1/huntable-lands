@@ -3,4 +3,4 @@ This repository contains a shapefile of the huntable lands in North Carolina. Th
 
 ### The shapefile is too large to upload to GitHub. Here is a [link to a google drive shared folder](https://drive.google.com/file/d/1SwF16AvwYVF81iwe_GsOYlYn7Dos0Tq6/view?usp=sharing)
 
-![NC Huntable lands](huntable_lands.png)
+![NC Huntable Lands](huntable_lands.png)
